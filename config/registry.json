@@ -1,0 +1,18 @@
+{
+  "routing": {
+    "FR": {
+      "corporate": ["infogreffe-api", "bodacc-lookup"],
+      "social": ["global-social-engine"],
+      "network": ["afnic-whois"]
+    },
+    "US": {
+      "corporate": ["sec-edgar", "opencorporates-us"],
+      "social": ["global-social-engine"],
+      "network": ["arin-lookup"]
+    },
+    "GLOBAL": {
+      "network": ["shodan-passive", "crt-sh"],
+      "social": ["sherlock-core"]
+    }
+  }
+}
