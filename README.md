@@ -9,21 +9,6 @@ It works like a **modular OSINT engine**, not a database:
 - matTTtrm queries public sources in real time
 - results are correlated and visualized
 
-
-
-
-
-# matTTtrm 🌐
-
-**matTTtrm** is an open-source OSINT framework that helps investigators,
-researchers and cybersecurity professionals **search, correlate and visualize
-publicly available information across countries**.
-
-It works like a **modular OSINT engine**, not a database:
-- you provide an input (username, email, domain, company…)
-- matTTtrm queries public sources in real time
-- results are correlated and visualized
-
 ## ✨ What can you do with matTTtrm?
 
 - Find where a **username** exists across platforms
